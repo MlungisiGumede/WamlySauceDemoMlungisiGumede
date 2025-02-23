@@ -50,11 +50,17 @@ Assumptions
 -It is assumed that an extension for extensive E2E test can be implemented in the framework
 
 
-Executable Test cases for POC
+Executable Test cases for POC(High Priority TC)
 -CartTest.java
 -LockedUserTest.java
 -LoginTest.java
 -ProductSortTest.java
+
+To Be BeExeucted TCs(Medium Pirority TC)
+-ProblemUserTest.Java
+-PerformanceGlitchUserTest.Java
+-ErrorUserTest.java
+
 
 MlungisI Gumede:(+27)065 304 6956
 u19074362@tuks.co.za
